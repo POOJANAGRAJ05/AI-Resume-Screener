@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+spacy
+PyPDF2
+python-docx
+altair
